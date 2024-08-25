@@ -29,3 +29,5 @@ An intuitive web-based application for managing personal expenses. This applicat
    ```bash
    git clone https://github.com/yourusername/expense-tracker.git
    cd expense-tracker
+2. **Run the app.py file on your terminal and then open the link for web application**
+   
